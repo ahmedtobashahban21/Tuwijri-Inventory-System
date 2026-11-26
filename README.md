@@ -36,6 +36,17 @@ The app downloads the store's master data once (**62,000+ items, 81,000+ barcode
 </tr>
 </table>
 
+
+## 🎬 Video demo
+
+<div align="center">
+
+DROP_VIDEO_HERE
+
+<sub>A 3-minute tour: sign-in → data preparation → purchases → transfers → stock count → settings and themes</sub>
+
+</div>
+
 ---
 
 ## ✨ Features
