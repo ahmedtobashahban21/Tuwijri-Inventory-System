@@ -42,20 +42,9 @@ The app downloads the store's master data once (**62,000+ items, 81,000+ barcode
 
 <div align="center">
 
-<a href="https://github.com/ahmedtobashahban21/Tuwijri-Inventory-System/blob/main/docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="https://img.shields.io/badge/▶_Watch_the_demo_video-3_min-D9902F?style=for-the-badge&logoColor=white" alt="Watch the demo video" /></a>
+DROP_VIDEO_HERE
 
-<br/><br/>
-
-<table>
-<tr>
-<td align="center"><a href="https://github.com/ahmedtobashahban21/Tuwijri-Inventory-System/blob/main/docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/01-login.jpg" width="170" /></a></td>
-<td align="center"><a href="https://github.com/ahmedtobashahban21/Tuwijri-Inventory-System/blob/main/docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/03-data-sync.jpg" width="170" /></a></td>
-<td align="center"><a href="https://github.com/ahmedtobashahban21/Tuwijri-Inventory-System/blob/main/docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/04-home.jpg" width="170" /></a></td>
-<td align="center"><a href="https://github.com/ahmedtobashahban21/Tuwijri-Inventory-System/blob/main/docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/13-home-space-theme.jpg" width="170" /></a></td>
-</tr>
-</table>
-
-<sub>A 3-minute tour: sign-in → data preparation → purchases → transfers → stock count → settings and themes.<br/>Click the button or any screen to open the video.</sub>
+<sub>A 3-minute tour: sign-in → data preparation → purchases → transfers → stock count → settings and themes</sub>
 
 </div>
 
