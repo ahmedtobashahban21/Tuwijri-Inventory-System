@@ -13,7 +13,7 @@
 
 **Receive, ship, transfer and count stock from a phone, connected live to Business Central.**
 
-[Overview](#-overview) · [Features](#-features) · [Screenshots](#-screenshots) · [How it works](#%EF%B8%8F-how-it-works) · [Backend APIs](#-business-central-apis) · [Contact](#-contact)
+[Overview](#-overview) · [Demo](#-video-demo) · [Features](#-features) · [Screenshots](#-screenshots) · [How it works](#%EF%B8%8F-how-it-works) · [Backend APIs](#-business-central-apis) · [Contact](#-contact)
 
 </div>
 
@@ -37,15 +37,25 @@ The app downloads the store's master data once (**62,000+ items, 81,000+ barcode
 </table>
 
 
+
 ## 🎬 Video demo
 
 <div align="center">
 
-DROP_VIDEO_HERE
+<a href="docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="https://img.shields.io/badge/▶_Watch_the_demo_video-3_min-D9902F?style=for-the-badge" alt="Watch the demo video" /></a>
 
-<sub>A 3-minute tour: sign-in → data preparation → purchases → transfers → stock count → settings and themes</sub>
+<br/><br/>
+
+<a href="docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/01-login.jpg" width="160" /></a>
+<a href="docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/03-data-sync.jpg" width="160" /></a>
+<a href="docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/04-home.jpg" width="160" /></a>
+<a href="docs/screenshots/WhatsApp%20Video%202026-11-26%20at%2009.25.49.mp4"><img src="docs/screenshots/13-home-space-theme.jpg" width="160" /></a>
+
+<sub>A 3-minute tour: sign-in → data preparation → purchases → transfers → stock count → settings and themes.<br/>Click the button or any screen to open the video.</sub>
 
 </div>
+
+---
 
 ---
 
