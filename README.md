@@ -236,7 +236,7 @@ This is an **internal company application**. The source code and server details 
 
 <br/><br/>
 
-<sub>Designed and built by <a href="https://github.com/ahmedtobashahban21">Ahmed Toba Shaban</a></sub>
+<sub>Designed and built by <a href="https://github.com/ahmedtobashahban21">Ahmed Toba </a></sub>
 
 </div>
 
