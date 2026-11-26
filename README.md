@@ -1,5 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="docs/banner.png" alt="Tuwijri Inventory System" />
+<img width="100%" src="docs/screenshots/banner.png" alt="Tuwijri Inventory System" />
 
 <div align="center">
 
@@ -219,4 +219,4 @@ This is an **internal company application**. The source code and server details 
 
 </div>
 
-<img width="100%" src="docs/footer.png" alt="" />
+<img width="100%" src="docs/screenshots/footer.png" alt="" />
