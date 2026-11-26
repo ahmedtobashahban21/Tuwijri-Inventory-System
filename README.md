@@ -1,5 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1F0E,50:7A4A24,100:D9902F&height=200&section=header&text=Tuwijri%20Inventory%20System&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Mobile%20warehouse%20%26%20store%20operations%20for%20Business%20Central%20%E2%80%A2%20LS%20Central&descAlignY=58&descSize=15&animation=fadeIn" />
+<img width="100%" src="docs/banner.png" alt="Tuwijri Inventory System" />
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 **Receive, ship, transfer and count stock from a phone, connected live to Business Central.**
 
-[Overview](#-overview) · [Demo](#-video-demo) · [Features](#-features) · [Screenshots](#-screenshots) · [How it works](#%EF%B8%8F-how-it-works) · [Backend APIs](#-business-central-apis) · [Contact](#-contact)
+[Overview](#-overview) · [Features](#-features) · [Screenshots](#-screenshots) · [How it works](#%EF%B8%8F-how-it-works) · [Backend APIs](#-business-central-apis) · [Contact](#-contact)
 
 </div>
 
@@ -35,18 +35,6 @@ The app downloads the store's master data once (**62,000+ items, 81,000+ barcode
 <td align="center" width="25%">🔍<br/><b>Item check</b><br/><sub>Scan a barcode, find the item</sub></td>
 </tr>
 </table>
-
----
-
-## 🎬 Video demo
-
-<div align="center">
-
-DROP_VIDEO_HERE
-
-<sub>A 3-minute tour: sign-in → data preparation → purchases → transfers → stock count → settings and themes</sub>
-
-</div>
 
 ---
 
@@ -231,4 +219,4 @@ This is an **internal company application**. The source code and server details 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9902F,50:7A4A24,100:3B1F0E&height=110&section=footer" />
+<img width="100%" src="docs/footer.png" alt="" />
